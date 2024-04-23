@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Image</title>
+    </head>
+    <body>
+        image
+        <img src="a1.jpg">
+        video
+        <video src="vs.mp4"autoplay="autoplay"controls>
+    </body>
+</html>
