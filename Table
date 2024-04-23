@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Table</title>
+    </head>
+    <body>
+        <Table border="60">
+            <thead>
+                <tr>
+                    <th>Number</th>
+                    <th>Name</th>
+                    <th>phone number</th>
+                </tr>
+            </thead>
+        </tbody>
+        <tr>
+            <td>1</td>
+            <td>godi</td>
+            <th>0960215157</th>
+        </tr>
+        <table>
+    </body>
+</html>
